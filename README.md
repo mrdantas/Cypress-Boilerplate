@@ -4,10 +4,10 @@ My Boilerplate for my tests using cypress
 # Install all dependencies
 Use this order to add packages through terminal (bash or cmd):
 
-npm init -y
-npm i cypress
-npx cypress verify
-npx cypress open
+- npm init -y
+- npm i cypress
+- npx cypress verify
+- npx cypress open
 
 # Optional settings
 Install ESLint to make better codes
